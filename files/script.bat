@@ -1,1 +1,1 @@
-echo Merry Christmas!
+echo "Merry Christmas, $1!";
